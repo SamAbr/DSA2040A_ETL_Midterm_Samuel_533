@@ -110,4 +110,9 @@ Below is one of the visualizations used for exploration of the data.
 
 ![image](https://github.com/user-attachments/assets/7bcc973a-c1fe-4c97-9be1-1536966ec333)
 
+Below is a screenshot of the validation.
+
+![image](https://github.com/user-attachments/assets/c0307260-c754-401a-8d81-90afed7b96cd)
+
+
 ---
