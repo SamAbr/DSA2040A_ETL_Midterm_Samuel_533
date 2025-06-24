@@ -1,0 +1,11 @@
+order_id,customer_name,region,product,quantity,unit_price,total_price,price_category,order_date
+101,Alice,Unknown,Computer,1,900.0,900.0,Mid-Range,2024-05-09
+102,Anonymous,Unknown,Computer,1,300.0,300.0,Budget,2024-05-07
+103,Anonymous,Unknown,Computer,1,600.0,600.0,Budget,2024-05-04
+104,Anonymous,Unknown,Tablet,1,300.0,300.0,Mid-Range,2024-05-26
+105,Heidi,North,Tablet,2,600.0,1200.0,Premium,2024-05-21
+106,Anonymous,Unknown,Computer,2,600.0,1200.0,Budget,2024-05-18
+107,Anonymous,Unknown,Tablet,1,600.0,600.0,Premium,2024-05-13
+108,Anonymous,Unknown,Computer,1,600.0,600.0,Budget,2024-05-11
+109,Grace,Unknown,Computer,2,600.0,1200.0,Budget,2024-05-29
+110,Heidi,Unknown,Phone,2,900.0,1800.0,Premium,2024-05-24
