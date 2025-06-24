@@ -51,7 +51,7 @@ Applied a robust transformation pipeline:
 | Pandas             | Data manipulation and I/O        |
 | NumPy              | Numerical operations             |
 | SQLite3            | Lightweight relational database  |
-| Matplotlib / Seaborn | Data visualization (optional) |
+| Matplotlib & Seaborn | Data visualization |
 | Jupyter Notebook   | Interactive scripting environment|
 
 ---
